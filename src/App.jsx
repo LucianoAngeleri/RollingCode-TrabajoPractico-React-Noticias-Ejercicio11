@@ -9,7 +9,6 @@ function App() {
   return (
     <>
     <Encabezado></Encabezado>
-    <Buscador></Buscador>
     <ListaNoticias></ListaNoticias>
     </>
   )
